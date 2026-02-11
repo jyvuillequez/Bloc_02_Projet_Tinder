@@ -11,7 +11,7 @@ Projet réalisé dans le cadre de la certification **RNCP Niveau 6 – Concepteu
 
 ## 2. Objectifs du projet
 
-- Comprendre quels facteurs influencent la décision individuelle d’accepter un second rendez-vous
+- Comprendre quels facteurs qui influencent la décision individuelle d’accepter un second rendez-vous
 - Identifier l’écart entre préférences déclarées et comportements réels
 
 ## 3. Compétences mobilisées
