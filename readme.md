@@ -65,7 +65,12 @@ Projet réalisé dans le cadre de la certification **RNCP Niveau 6 – Concepteu
 - Données issues d’un contexte expérimental et historique (absence de données "fraîches" et optimisée)
 - Interactions très courtes
 
-## 7. Organisation du projet
+## 7. Installations des librairies Python
+```text
+python -m pip install -r requirements.txt
+```
+
+## 8. Organisation du projet
 
 ```text
 .
